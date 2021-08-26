@@ -1,0 +1,91 @@
+body {
+    background-color: #517664;
+}
+
+
+#mainNavbar .navbar-brand {
+    font-family: 'Teko', sans-serif;
+    font-weight: 700;
+    letter-spacing: .35rem;
+    text-transform: uppercase;
+    color: #517664;
+}
+
+#mainNavbar .nav-link,
+.dropdown-item {
+    font-family: 'Montserrat', sans-serif;
+    color: #2D3319;
+}
+
+
+.emphasis {
+    font-family: 'Teko', sans-serif;
+    font-weight: 700;
+    letter-spacing: .35rem;
+    text-transform: uppercase;
+    color: #9FD8CB;
+    font-size: 5rem;
+}
+
+.emphasis span {
+    color: #2D3319;
+
+}
+
+.mar {
+    margin-bottom: 2rem;
+}
+
+.mar:last-of-type {
+    margin-bottom: 0rem;
+}
+
+svg {
+    size: .5rem;
+    width: 20rem;
+    padding-top: 2rem;
+}
+
+p.content {
+    color: #9FD8CB;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    background-color: #2D3319;
+    color: #D6E5E3;
+}
+
+footer a{
+    color: #CACFD6;
+}
+
+@media (max-width: 1250px) {
+
+    .emphasis,
+    .emphasis span {
+        font-size: 3.6rem;
+
+    }
+
+    svg {
+        size: .5rem;
+        width: 15rem;
+        padding-top: 1rem;
+    }
+}
+
+@media (max-width: 875px) {
+
+    .emphasis,
+    .emphasis span {
+        font-size: 3rem;
+
+    }
+
+    svg {
+        size: .5rem;
+        width: 10rem;
+        padding-top: .5rem;
+    }
+}
