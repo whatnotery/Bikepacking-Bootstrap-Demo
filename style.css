@@ -32,31 +32,21 @@ body {
 
 }
 
-.mar {
-    margin-bottom: 2rem;
-}
+p#lorem {
 
-.mar:last-of-type {
-    margin-bottom: 0rem;
-}
-
-svg {
-    size: .5rem;
-    width: 20rem;
-    padding-top: 2rem;
-}
-
-p.content {
     color: #9FD8CB;
     font-family: 'Montserrat', sans-serif;
+
 }
 
-footer{
+
+
+footer {
     background-color: #2D3319;
     color: #D6E5E3;
 }
 
-footer a{
+footer a {
     color: #CACFD6;
 }
 
@@ -68,11 +58,6 @@ footer a{
 
     }
 
-    svg {
-        size: .5rem;
-        width: 15rem;
-        padding-top: 1rem;
-    }
 }
 
 @media (max-width: 875px) {
@@ -83,9 +68,4 @@ footer a{
 
     }
 
-    svg {
-        size: .5rem;
-        width: 10rem;
-        padding-top: .5rem;
-    }
 }
