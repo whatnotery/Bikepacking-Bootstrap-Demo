@@ -79,4 +79,8 @@ footer a {
 
     }
 
+    div.dropdown-menu {
+        background: none;
+    }
+
 }
