@@ -1,4 +1,4 @@
 # BikepackingBootstrap
 
-A bikepacking themed demo of bootstrap
-see it [here](http://joshea.dev/bikepackingbootstrap/)
+A bikepacking themed demo of bootstrap.
+See it [here](http://joshea.dev/bikepackingbootstrap/)
